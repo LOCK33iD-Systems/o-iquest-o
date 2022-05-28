@@ -1,0 +1,23 @@
+From caa7d6047b3ceb6f8441dc9db93a22566cc3e637 Mon Sep 17 00:00:00 2001
+From: Jacob Adam Hoffman <LOCK33Security@lock33organization.onmicrosoft.com>
+Date: Wed, 20 Apr 2022 16:10:08 -0500
+Subject: [PATCH] #Create lib
+
+#Create lib
+</lib>{-o-}(repository)
+#Add_Update(iQuest)
+#Review_Commit
+Commit.
+---
+ lib | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 lib
+
+diff --git a/lib b/lib
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/lib
+--
+Working Copy 5.1.4
+
